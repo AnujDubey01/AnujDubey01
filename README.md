@@ -133,9 +133,9 @@ A responsive portfolio showcasing projects, skills, achievements, and contact in
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-* Email: YOUR_EMAIL
+* GitHub: https://github.com/AnujDubey01
+* LinkedIn: [https://linkedin.com/in/](https://www.linkedin.com/in/dubey-anuj/)
+* Email: Yanujdubey.ok@gmail.com
 
 ---
 
